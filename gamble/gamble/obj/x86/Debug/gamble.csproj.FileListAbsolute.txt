@@ -1,0 +1,9 @@
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\bin\Debug\gamble.exe
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\bin\Debug\gamble.pdb
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\obj\x86\Debug\gamble.Form1.resources
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\obj\x86\Debug\gamble.Properties.Resources.resources
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\obj\x86\Debug\gamble.exe
+C:\Users\Tonage\.ssh\gamble\gamble\gamble\obj\x86\Debug\gamble.pdb
